@@ -2,6 +2,9 @@
 
 This is a simple QA task project using Serenity with Cucumber and REST Assured
 
+## Requirements:
+Java 8 and Maven 3.8.4 or higher. Depending on preferred IDE plugins for Lombok and Cucumber.
+
 ## Installation:
 
 1.After cloning repo please run in main folder:
